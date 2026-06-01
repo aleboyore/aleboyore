@@ -2,7 +2,7 @@
 
 - 🎓 I’m a 2nd-year Computer Science student  
 - 🏫 Studying at **Laguna State Polytechnic University**  
-- 🌱 Currently learning **C#**  
+
 
 <!--
 **aleboyore/aleboyore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
