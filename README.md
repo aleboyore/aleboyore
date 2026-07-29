@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-- 🎓 I’m a 2nd-year Computer Science student  
-- 🏫 Studying at **Laguna State Polytechnic University**  
+- 🎓 I’m a 3rd-year Computer Science student  
+- 🏫 Studying at **Laguna State Polytechnic University - San Pablo City Campus**  
+- 🚧 **Currently updating my profile—stay tuned!**
 
 
 <!--
